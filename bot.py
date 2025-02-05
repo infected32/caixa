@@ -37,7 +37,7 @@ prizes = [
     {"name": "Eraser T5", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.1, "description": "Eraser T5, arma potente para apagar ameaças."},
     {"name": "BullDog T5", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.1, "description": "BullDog T5, espingarda implacável."},
     {"name": "Pack 5k Munição 9mm Urânio", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "5k munição 9mm urânio, poder de fogo intenso."},
-    {"name": "Pack 5k Munição 762mm Urânio", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "5k munição 7.62mm urânio, destruição garantida."},
+    {"name": "Pack 5k Munição 762mm Urânio", "image": "https://i.postimg.cc/bSZ6s5JW/ammo762mm-Bullet-DU.png", "chance": 0.5, "description": "5k munição 7.62mm urânio, destruição garantida."},
     {"name": "Pack 5k Munição Shot Urânio", "image": "https://imgur.com/n4dqi3d.png", "chance": 0.5, "description": "5k munição Shot urânio, impacto devastador."}
 ]
 
